@@ -9,4 +9,6 @@
 
 - 学习视频资源：[慕课网「全面系统Python3.8入门+进阶」课程](https://coding.imooc.com/learn/list/136.html)前五章节
 
-- 仅供个人学习使用 ：）
+- 笔记归属人：Lynne
+
+- 该笔记仅供个人学习使用 ：）
